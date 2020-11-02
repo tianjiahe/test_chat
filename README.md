@@ -16,5 +16,10 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 时间: 2020/11/2 
-## 准备先写一个高仿微信的项目,主要目的是学习 Flutter
+### 准备先写一个高仿微信的项目,主要目的是学习 Flutter
+
+  默认一个远程地址在github上,测试可以完成推送
+  另外一个在 coding.net上,测试 SSH 推送失败. 
+  git remote add git@e.coding.net-tianjiaheteam172839/fluttertest01/test01.git
+
 
