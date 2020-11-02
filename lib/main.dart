@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: MyHomePage(title: 'Flutter Demo test wechat'),
+      home: MyHomePage(title: 'Flutter 高仿微信'),
     );
   }
 }
